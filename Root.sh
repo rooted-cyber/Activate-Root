@@ -49,7 +49,7 @@ R () {
 				R
 				printf "\n\n Adding sudo command\n"
 				cd ~/Activate-Root
-				chmod 1111 *
+				chmod 7777 *
 				cp -f sudo $PREFIX/bin
 				chmod 777 sudo
 				R
