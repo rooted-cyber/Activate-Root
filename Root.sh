@@ -61,6 +61,8 @@ R () {
 				}
 				menu () {
 					b
+prinrf "\n\033[1;91m Note : apt or pkg noot work if you use sudo.
+ or you want use apt or pkg so type exit\n\n"
 		echo -e -n "\033[93m Do you want to activate root\033[94m(\033[96mY/N\033[94m) "
 		read a
 		case $a in
