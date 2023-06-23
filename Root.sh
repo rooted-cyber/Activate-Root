@@ -40,7 +40,7 @@ R () {
 			else
 			apt update
 			apt upgrade
-			apt install root
+			apt install neofetch
 			clear
 			fi
 			sleep 2
